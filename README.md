@@ -1,5 +1,5 @@
 # dick-cord-hudba
-pero sem najebanej jak prasomrd
+Music bot pro prehravani hudby na discordu v roce 2023
 
 # navod
 \> dej token do index.js a mas to ez gg\
